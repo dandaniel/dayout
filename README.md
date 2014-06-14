@@ -1,5 +1,5 @@
 dayout
 ======
 
-<h1>iOS application</h1>
+<h4>iOS application</h4>
 <p>Built using Swift</p>
